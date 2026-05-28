@@ -2,7 +2,7 @@
 
 This repository contains the companion Jupyter notebooks for the book:
 
-#Statistics in Data Science
+# Statistics in Data Science
 
 **A Practical and Intuitive Introduction**
 
