@@ -2,8 +2,9 @@
 
 This repository contains the companion Jupyter notebooks for the book:
 
-**Statistics in Data Science**
-*A Practical and Intuitive Introduction*
+#Statistics in Data Science
+
+**A Practical and Intuitive Introduction**
 
 The notebooks are designed to provide simple, intuitive, and hands-on Python examples that support the concepts introduced throughout the book.
 
