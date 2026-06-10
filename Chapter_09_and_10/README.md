@@ -1,3 +1,5 @@
-# Chapter 9 and 10 and Appendix E
+# Chapter 9 
+# Chapter10 
+# Appendix F
 
 Describing and Understanding Data
