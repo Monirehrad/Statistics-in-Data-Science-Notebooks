@@ -4,7 +4,7 @@ This repository contains the companion Jupyter notebooks for the book:
 
 **Statistics in Data Science (A Practical and Intuitive Introduction)**
 
-The notebooks are designed to provide simple, intuitive, and hands-on Python examples that support the concepts introduced throughout the book.
+The notebooks are designed to provide simple, intuitive, and hands-on Python and R examples that support the concepts introduced throughout the book.
 
 ---
 
@@ -24,22 +24,10 @@ The notebooks are designed to provide simple, intuitive, and hands-on Python exa
 
 ---
 
-# Technologies Used
-
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- SciPy
-- scikit-learn
-
----
-
 # Repository Structure
 
 Each chapter has its own folder containing:
-- the chapter notebook,
+- the chapter Python and R notebooks,
 - and a short README description.
 
 ---
@@ -49,7 +37,7 @@ Each chapter has its own folder containing:
 The goal of these notebooks is to help students:
 - build intuition,
 - connect statistics with real-world data science,
-- and practice concepts through clean and beginner-friendly Python examples.
+- and practice concepts through clean and beginner-friendly Python and R examples.
 
 ---
 
