@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="front_cover.png" alt="Statistics in Data Science" width="300">
+  <img src="front_cover.png" alt="Statistics in Data Science" width="500">
 </p>
 
 # Statistics in Data Science — Python and R Notebooks
