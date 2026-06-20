@@ -7,7 +7,7 @@ This repository contains the companion Jupyter notebooks for the book:
 The notebooks are designed to provide simple, intuitive, and hands-on Python and R examples that support the concepts introduced throughout the book.
 
 ---
-Paperback: [Amazon](https://www.amazon.com/dp/B0H36RTZ3H
+Paperback: [Amazon](https://www.amazon.com/dp/B0H36RTZ3H)
 
 PDF: [Payhip](https://payhip.com/b/UB6nq)
 
