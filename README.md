@@ -14,14 +14,16 @@ Author: Monireh Rezai Rad
 
 This repository contains the companion Python and R Jupyter notebooks for the book which are designed to provide simple, intuitive, and hands-on Python and R examples that support the concepts introduced throughout the book.
 
+These notebooks are intended for students, educators, and practitioners who want hands-on examples that accompany the concepts discussed in the book.
+
+**If you find these notebooks useful, consider starring the repository.**
+
 ---
 # Links
 
 📖 [Paperback](https://www.amazon.com/dp/B0H36RTZ3H)
 
 📄 [PDF](https://payhip.com/b/UB6nq)
-
-💻 [Companion Python & R Notebooks](https://github.com/Monirehrad/Statistics-in-Data-Science-Notebooks)
 
 ---
 
