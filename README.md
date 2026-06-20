@@ -4,27 +4,26 @@
 
 # Statistics in Data Science — Python and R Notebooks
 
-Companion notebooks for the book *Statistics in Data Science*
+Companion notebooks for the book **Statistics in Data Science (A Practical and Intuitive Introduction)**
 
-**Build Intuition. Understand Data. Make Better Decisions.**
+*Build Intuition. Understand Data. Make Better Decisions.*
 
 Author: Monireh Rezai Rad
 
 ---
 
-This repository contains the companion Jupyter notebooks for the book:
-
-**Statistics in Data Science (A Practical and Intuitive Introduction)**
-
-The notebooks are designed to provide simple, intuitive, and hands-on Python and R examples that support the concepts introduced throughout the book.
+This repository contains the companion Python and R Jupyter notebooks for the book which are designed to provide simple, intuitive, and hands-on Python and R examples that support the concepts introduced throughout the book.
 
 ---
+# Links
 
 📖 [Paperback](https://www.amazon.com/dp/B0H36RTZ3H)
 
 📄 [PDF](https://payhip.com/b/UB6nq)
 
 💻 [Companion Python & R Notebooks](https://github.com/Monirehrad/Statistics-in-Data-Science-Notebooks)
+
+---
 
 # Topics Covered
 
