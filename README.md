@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="front_cover.png" alt="Statistics in Data Science" width="300">
+</p>
+
 # Statistics in Data Science — Python and R Notebooks
 
 This repository contains the companion Jupyter notebooks for the book:
