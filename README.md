@@ -1,4 +1,4 @@
-# Statistics in Data Science — Python Notebooks
+# Statistics in Data Science — Python and R Notebooks
 
 This repository contains the companion Jupyter notebooks for the book:
 
