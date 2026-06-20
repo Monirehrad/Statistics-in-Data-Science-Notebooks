@@ -10,6 +10,7 @@ Companion notebooks for the book *Statistics in Data Science*
 
 Author: Monireh Rezai Rad
 
+---
 
 This repository contains the companion Jupyter notebooks for the book:
 
@@ -18,11 +19,11 @@ This repository contains the companion Jupyter notebooks for the book:
 The notebooks are designed to provide simple, intuitive, and hands-on Python and R examples that support the concepts introduced throughout the book.
 
 ---
-📖 Paperback: [Amazon](https://www.amazon.com/dp/B0H36RTZ3H)
+📖 [Paperback](https://www.amazon.com/dp/B0H36RTZ3H)
 
-PDF: [Payhip](https://payhip.com/b/UB6nq)
+📄 [PDF](https://payhip.com/b/UB6nq)
 
-[Companion Python & R Notebooks](https://github.com/Monirehrad/Statistics-in-Data-Science-Notebooks)
+💻 [Companion Python & R Notebooks](https://github.com/Monirehrad/Statistics-in-Data-Science-Notebooks)
 
 # Topics Covered
 
